@@ -1,0 +1,33 @@
+Artigo 1:
+Branch: linguagens-mais-usadas
+Commit: Adicionado parágrafo sobre linguagens de programação mais utilizadas
+
+Neste commit, foi incluído um parágrafo no arquivo index.html na branch linguagens-mais-usadas, abordando as linguagens de programação mais utilizadas atualmente. Destacou-se a predominância de linguagens como Python, JavaScript, e Java, explicando brevemente suas aplicações e popularidade no mercado.
+
+Artigo 2:
+Branch: empresas-nacionais-de-tecnologia
+Commit: Adicionado parágrafo sobre principais empresas de tecnologia nacionais
+
+Neste commit, foi acrescentado um parágrafo no arquivo index.html na branch empresas-nacionais-de-tecnologia sobre as principais empresas de tecnologia do país. Foram citadas empresas como [Exemplo1], [Exemplo2], e [Exemplo3], destacando suas contribuições para o setor tecnológico nacional e internacional.
+
+Artigo 3:
+Branch: impacto-da-ia-no-mercado-de-trabalho
+Commit: Inserido parágrafo sobre o impacto da Inteligência Artificial no mercado de trabalho
+
+Neste commit, foi adicionado um parágrafo no arquivo index.html na branch impacto-da-ia-no-mercado-de-trabalho, discutindo o impacto da Inteligência Artificial (IA) no mercado de trabalho. Abordou-se como a IA está transformando diversos setores, automatizando tarefas repetitivas e criando novas oportunidades de emprego em áreas como análise de dados e desenvolvimento de sistemas inteligentes.
+
+Artigo 4:
+Branch: profissoes-do-futuro
+Commit: Adicionado parágrafo sobre as profissões do futuro e suas tendências
+
+Neste commit, foi incluído um parágrafo no arquivo index.html na branch profissoes-do-futuro sobre as profissões do futuro e suas tendências. Discutiu-se áreas emergentes como inteligência artificial, robótica, e saúde digital, destacando as habilidades necessárias para se preparar para as carreiras que serão mais demandadas no futuro.
+
+Artigo 5:
+Branch: mercado-de-trabalho-em-jogos-digitais
+Commit: Acrescentado parágrafo sobre o mercado de trabalho em Jogos Digitais
+
+Neste commit, foi adicionado um parágrafo no arquivo index.html na branch mercado-de-trabalho-em-jogos-digitais abordando o mercado de trabalho em Jogos Digitais. Explorou-se as oportunidades de carreira na indústria de jogos, incluindo desenvolvimento de jogos, design de interfaces, e testes de qualidade, destacando a crescente demanda por profissionais qualificados neste setor.
+
+
+
+
